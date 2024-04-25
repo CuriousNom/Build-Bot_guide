@@ -4,7 +4,7 @@ This guide will walk you through setting up the necessary packages for building 
 
 # Credits 
 
-Thanks to akhil naran for this amazing script and mahesh technical for this guide
+Thanks to akhil narang for this amazing script and mahesh technical for this guide
 
 ## Prerequisites
 
