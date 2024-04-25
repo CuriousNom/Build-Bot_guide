@@ -9,8 +9,6 @@ This guide will walk you through setting up the necessary packages for building 
 
 ## Installation Steps
 
-### 1. Get Superuser Access
-
 Open a terminal and run the following command:
 ```bash
 sudo su
