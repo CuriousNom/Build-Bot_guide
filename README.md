@@ -2,6 +2,10 @@
 
 This guide will walk you through setting up the necessary packages for building a Custom ROM. Make sure you follow each step carefully.
 
+# Credits 
+
+Thanks to akhil naran for this amazing script and mahesh technical for this guide
+
 ## Prerequisites
 
 - Ubuntu or Debian-based Linux distribution.
