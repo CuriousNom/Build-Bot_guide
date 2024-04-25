@@ -11,6 +11,7 @@ This guide will walk you through setting up the necessary packages for building 
 
 Open a terminal and run the following command:
 ```bash
+# Get root perms
 sudo su
 add-apt-repository ppa:openjdk-r/ppa
 apt-get update
